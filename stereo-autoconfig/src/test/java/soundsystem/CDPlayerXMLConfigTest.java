@@ -1,3 +1,14 @@
+/*
+ **********************************************************
+ * Desc    : 基于注解方式实现Spring IOC
+ * Author  : Michael Guo
+ * Contact : XXXXXX@gmail.com
+ * Date    : 2018/11/26
+ * Notes   : @ContextConfiguration采用XML文件方式
+ * History :
+ ***********************************************************
+ */
+
 package soundsystem;
 
 import static org.junit.Assert.*;

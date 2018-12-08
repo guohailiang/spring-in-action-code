@@ -4,7 +4,7 @@
  * Author  : Michael Guo
  * Contact : XXXXXX@gmail.com
  * Date    : 2018/11/26
- * Notes   : @ContextConfiguration采用XML文件方式
+ * Notes   : @ContextConfiguration采用xml路径方式
  * History :
  ***********************************************************
  */

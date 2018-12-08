@@ -5,6 +5,13 @@
  * Contact : XXXXXX@gmail.com
  * Date    : 2018/11/26
  * Notes   : @ContextConfiguration采用class字节码文件方式
+ *           本project包含了两种扫描注解的方式：
+ *           第一种：
+ *           xml中显式声明<context:component-scan base-package="soundsystem" />；
+ *
+ *           第二种：
+ *           在CDPlayerConfig配置类中使用@ComponentScan自动扫描注解。
+ *
  * History :
  ***********************************************************
  */

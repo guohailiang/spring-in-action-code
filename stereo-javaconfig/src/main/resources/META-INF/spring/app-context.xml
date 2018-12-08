@@ -6,7 +6,7 @@
     http://www.springframework.org/schema/beans/spring-beans.xsd
 	http://www.springframework.org/schema/context 
     http://www.springframework.org/schema/context/spring-context.xsd">
-	<!--在此配置文件中配置了自动扫描，就不需要采用@ComponentScan。-->
+	<!--在此xml文件中配置了自动扫描，就不需要在配置类中的注解@ComponentScan。-->
 	<context:component-scan base-package="soundsystem" />
 
 </beans>

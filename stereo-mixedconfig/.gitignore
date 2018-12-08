@@ -1,0 +1,9 @@
+#文件夹
+.gradle
+.idea
+out
+
+#后缀
+*.iml
+*.ipr
+*.iws
